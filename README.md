@@ -10,5 +10,5 @@ Playable on https://jsfiddle.net/q76uzxwe/1/
 
 ```bash
 $ npm run start
-# then press "start debugging" button, using "Launch Chrome configuration"
+# then press "start debugging" button(or press F5), using "Launch Chrome configuration"
 ```
